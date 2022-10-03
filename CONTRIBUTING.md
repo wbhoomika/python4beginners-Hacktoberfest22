@@ -11,4 +11,8 @@
 #### Name: Bhoomika Wavhal 
 - GitHub: https://github.com/wbhoomika/
 ```
+```markdown
+#### Name: Wahaj Raza 
+- GitHub: https://github.com/Wahaj-Raza
+```
 
