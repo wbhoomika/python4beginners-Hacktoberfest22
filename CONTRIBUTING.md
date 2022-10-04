@@ -21,3 +21,8 @@
 #### Name: Vyshnav Ajith
 - GitHub: https://github.com/vyshnav2003
 ```
+
+```markdown
+#### Name: Fajril Pratam
+- GitHub: https://github.com/gabutteam18
+```
