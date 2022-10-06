@@ -31,5 +31,5 @@
 - GitHub: https://github.com/AlvinManojAlex/
 ```
 
-#### Name: <Dipanwita Das>
+#### Name: Dipanwita Das
 - GitHub: https://github.com/dipanwita1405/
