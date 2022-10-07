@@ -5,8 +5,7 @@ comp_score=0
 
 choices=['r','p','s'] #list of valid input choices for user
 
-#idea: create a list/ dict for cases where user wins, and use that in if statements
-#IDEA WORKED
+#Create a dict for cases where user wins, and use that in if statements
 win={}
 lose={}
 
@@ -33,20 +32,6 @@ while True:
     else:
         print("You lost!!!!")
         lose.update({user_inp:comp_inp})
-    '''
-    if user_inp=='r' and comp_inp=='s':
-        print("Yaay!")
-        user_score+=1
-    elif user_inp=='s' and comp_inp=='p':
-        print("Yaay")
-        user_score+=1
-    elif user_inp=='p' and comp_inp=='r':
-        print("Yaay")
-        user_score+=1
-    else:
-        print("Naay")
-        comp_score+=1
-    '''
 
 user_score=len(win)
 comp_score=len(lose)
