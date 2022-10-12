@@ -9,6 +9,11 @@
 # Shoutout to our passionate contributors
 
 ```markdown
+#### Name: Paul Thomas
+- GitHub: https://github.com/PaulThomas20002/
+```
+
+```markdown
 #### Name: Bhoomika Wavhal 
 - GitHub: https://github.com/wbhoomika/
 ```
