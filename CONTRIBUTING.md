@@ -38,6 +38,6 @@
 - GitHub: https://github.com/csubhasundar
 
 ```markdown
-#### Name: <First Name Last Name>
+#### Name: Mokshablr
 - GitHub: https://github.com/mokshablr/
 ```
