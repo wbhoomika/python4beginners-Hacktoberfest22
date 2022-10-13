@@ -41,3 +41,8 @@
 ```
 #### Name: Subha Sundar Chakraborty
 - GitHub: https://github.com/csubhasundar
+
+```markdown
+#### Name: Romit Dasgupta
+- GitHub: https://github.com/RGupta-design/
+```
