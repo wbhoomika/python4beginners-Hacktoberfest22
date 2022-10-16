@@ -42,5 +42,7 @@
 #### Name: Subha Sundar Chakraborty
 - GitHub: https://github.com/csubhasundar
 
+```markdown
 #### Name: Simran Sachdeva
 - GitHub: https://github.com/dotslashsimran/
+```
