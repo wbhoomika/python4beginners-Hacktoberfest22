@@ -41,3 +41,8 @@
 ```
 #### Name: Subha Sundar Chakraborty
 - GitHub: https://github.com/csubhasundar
+
+```markdown
+#### Name: Aditya Kumar Sahu
+- GitHub: https://github.com/aditya-kumar-sahu/
+```
