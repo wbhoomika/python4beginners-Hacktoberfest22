@@ -44,6 +44,11 @@
 ```
 
 ```markdown
+#### Name: Simran Sachdeva
+- GitHub: https://github.com/dotslashsimran/
+```
+
+```markdown
 #### Name: Romit Dasgupta
 - GitHub: https://github.com/RGupta-design/
 ```
