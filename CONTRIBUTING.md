@@ -44,6 +44,11 @@
 ```
 
 ```markdown
+#### Name: Aditya Kumar Sahu
+- GitHub: https://github.com/aditya-kumar-sahu/
+```
+
+```markdown
 #### Name: Simran Sachdeva
 - GitHub: https://github.com/dotslashsimran/
 ```
