@@ -9,14 +9,10 @@
 # Shoutout to our passionate contributors
 
 ```markdown
-#### Name: Paul Thomas
-- GitHub: https://github.com/PaulThomas20002/
-```
-
-```markdown
 #### Name: Bhoomika Wavhal 
 - GitHub: https://github.com/wbhoomika/
 ```
+
 ```markdown
 #### Name: Wahaj Raza 
 - GitHub: https://github.com/Wahaj-Raza
@@ -26,6 +22,7 @@
 #### Name: Vyshnav Ajith
 - GitHub: https://github.com/vyshnav2003
 ```
+
 ```markdown
 #### Name: Abdul Muhib
 - GitHub: https://github.com/MohibBhojani
@@ -35,14 +32,33 @@
 #### Name: Alvin Manoj Alex
 - GitHub: https://github.com/AlvinManojAlex/
 ```
+
 ```markdown
 #### Name: Dipanwita Das
 - GitHub: https://github.com/dipanwita1405/
 ```
+
+```markdown
 #### Name: Subha Sundar Chakraborty
 - GitHub: https://github.com/csubhasundar
+```
 
 ```markdown
 #### Name: Simran Sachdeva
 - GitHub: https://github.com/dotslashsimran/
+```
+
+```markdown
+#### Name: Romit Dasgupta
+- GitHub: https://github.com/RGupta-design/
+```
+
+```markdown
+#### Name: Mokshablr
+- GitHub: https://github.com/mokshablr/
+```
+
+```markdown
+#### Name: Paul Thomas
+- GitHub: https://github.com/PaulThomas20002/
 ```
