@@ -67,3 +67,8 @@
 #### Name: Paul Thomas
 - GitHub: https://github.com/PaulThomas20002/
 ```
+
+```markdown
+#### Name: Souvik Bhattacharya
+- GitHub: https://github.com/Souvik-Bhattacharya/
+```
