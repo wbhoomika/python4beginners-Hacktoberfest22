@@ -69,7 +69,12 @@
 ```
 
 ```markdown
-#### Name: <First Jiayuan Chen>
+#### Name: Souvik Bhattacharya
+- GitHub: https://github.com/Souvik-Bhattacharya/
+```
+
+```markdown
+#### Name: Jiayuan Chen
 - GitHub: https://github.com/443781544/
 ```
 
