@@ -69,6 +69,11 @@
 ```
 
 ```markdown
+#### Name: Adarsh Navneet Sinha
+- GitHub: https://github.com/geeky01adarsh/
+```
+
+```markdown
 #### Name: Souvik Bhattacharya
 - GitHub: https://github.com/Souvik-Bhattacharya/
 ```
