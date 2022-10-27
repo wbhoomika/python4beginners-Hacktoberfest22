@@ -69,6 +69,16 @@
 ```
 
 ```markdown
+#### Name: Ashwin Sivasankaran
+- GitHub: https://github.com/ashwinsk24/
+```
+
+```markdown
+#### Name: Pranav Gupta
+- GitHub: https://github.com/pranavgupta2603/
+```
+
+```markdown
 #### Name: Boudhik Shaj
 - GitHub: https://github.com/Boudhik-Shaj/
 ```
@@ -93,6 +103,7 @@
 #### Name: Subhamay Dhara
 - GitHub: https://github.com/dharasubhamay
 ```
+
 
 
 ```markdown
