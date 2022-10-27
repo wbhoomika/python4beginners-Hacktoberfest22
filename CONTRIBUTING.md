@@ -1,4 +1,4 @@
-# Follow the below format to add your name: 
+# Follow the below format to add your name:
 
 <!---copy from line 4 till line 7--->
 ```markdown
@@ -9,12 +9,12 @@
 # Shoutout to our passionate contributors
 
 ```markdown
-#### Name: Bhoomika Wavhal 
+#### Name: Bhoomika Wavhal
 - GitHub: https://github.com/wbhoomika/
 ```
 
 ```markdown
-#### Name: Wahaj Raza 
+#### Name: Wahaj Raza
 - GitHub: https://github.com/Wahaj-Raza
 ```
 
@@ -72,3 +72,30 @@
 #### Name: Pranav Gupta
 - GitHub: https://github.com/pranavgupta2603/
 ```
+
+```markdown
+#### Name: Boudhik Shaj
+- GitHub: https://github.com/Boudhik-Shaj/
+```
+
+
+```markdown
+#### Name: Adarsh Navneet Sinha
+- GitHub: https://github.com/geeky01adarsh/
+```
+
+```markdown
+#### Name: Souvik Bhattacharya
+- GitHub: https://github.com/Souvik-Bhattacharya/
+```
+
+```markdown
+#### Name: Jiayuan Chen
+- GitHub: https://github.com/443781544/
+```
+
+```markdown
+#### Name: Subhamay Dhara
+- GitHub: https://github.com/dharasubhamay
+```
+
