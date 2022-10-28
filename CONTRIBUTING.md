@@ -117,3 +117,7 @@
 #### Name: Sahil Shriwardhankar
 - GitHub: https://github.com/notsointresting
 ```
+```markdown
+#### Name: <Nicole Trindade>
+- GitHub: https://github.com/nicoledst>
+```
