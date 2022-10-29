@@ -9,6 +9,11 @@
 # Shoutout to our passionate contributors
 
 ```markdown
+#### Name: Sahil Kishore
+- GitHub: https://github.com/sahil-kishore/
+```
+
+```markdown
 #### Name: Bhoomika Wavhal
 - GitHub: https://github.com/wbhoomika/
 ```
